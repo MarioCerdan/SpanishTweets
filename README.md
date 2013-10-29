@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -32,3 +33,9 @@ Special thanks to Dimitri Voronianski and http://kaviddiss.com/2013/05/17/how-to
 
 Project for educational purposes.
 
+=======
+SpanishTweets
+=============
+
+Real-Time Hot Words within Spanish Tweets using Node.js, Redis and Storm
+>>>>>>> 8e2724fb96d788be2e3cd9ddc9ec21872bd5f72f
