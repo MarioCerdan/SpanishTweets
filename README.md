@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-
 # Real-Time Hot Words within Spanish Tweets using Node.js, Redis and Storm
 
 Realtime geolocation of the hottest words within Spanish tweets.
@@ -11,7 +7,7 @@ App build on Node.js with Storm, Redis, Twitter4j,  HTML5 Geolocation API, Socke
 Redis used as PUB/SUB system. 
 Storm helps computing most used words within Spanish tweets in real-time.
 
-![alt tag](https://raw.github.com/MarioCerdan/TweetsStormNode/master/TweetsStormNode.png)
+![alt tag](https://raw.github.com/MarioCerdan/SpanishTweets/master/TweetsStormNode.png)
 
 ### How to
 
@@ -38,4 +34,3 @@ SpanishTweets
 =============
 
 Real-Time Hot Words within Spanish Tweets using Node.js, Redis and Storm
->>>>>>> 8e2724fb96d788be2e3cd9ddc9ec21872bd5f72f
